@@ -19,7 +19,7 @@ Modern, hızlı ve kullanıcı dostu. **React 19 + TypeScript + Vite + Tailwind 
 | **Proje Adı** | Akıllı Depo ve Envanter Yönetim Sistemi |
 | **Öğrenci Adı Soyadı** | Doğukan BARA |
 | **Öğrenci Numarası** | 24010509058 |
-| **GitHub Bağlantısı** | [github.com/DogukanBARA/akilli-depo-envanter-yonetim-sistemi](https://github.com/DogukanBARA/akilli-depo-envanter-yonetim-sistemi) |
+| **GitHub Bağlantısı** | (https://github.com/DogukanBARA/Akilli-depo-envanter-yonetim-sistemi) |
 
 ## 📑 İçindekiler
 1. [Özellikler](#-özellikler)
